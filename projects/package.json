@@ -4,7 +4,9 @@
     "description": "Association Member Management System",
     "private": true,
     "workspaces": [
-        "backend/*"
+        "backend/*",
+        "frontend/*",
+        "utils/*"
     ],
     "dependencies": {
         "typescript": "^5.1.6"

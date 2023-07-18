@@ -15,7 +15,7 @@
     "files": [],
     "references": [
         {
-            "path": "./backend/server"
+            "path": "./packages/server"
         },
         {
             "path": "./backend/users"
