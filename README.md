@@ -2,7 +2,7 @@
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
-  <img width="460" height="400" src="docs/images/repo-logo-bg.png">
+  <img width="460" height="400" src="docs/images/repo-image-bg.png">
 </p>
 <!-- markdownlint-enable MD033 -->
 
@@ -12,8 +12,6 @@ Main system to control a association, this is aim to be a system that prove some
 microservices concepts, as well to define a good structure for NodeJS projects
 using monorepo template, this aims to be a ideal starting point for small startups
 build systems using modern solutions.
-
--------------------------------------------
 
 ## Tech Stack
 
@@ -40,8 +38,6 @@ This project will use the tech stack described bellow:
 * Argo CD
 * Tekton
 
--------------------------------------------
-
 ## Documentation
 
 As this repo represent a set of good practices to develop microservices, the complete set of
@@ -54,16 +50,12 @@ The documentation was build using sphinx-js, to run it run the follow command:
 sh ./scripts/gen-docs.sh
 ```
 
--------------------------------------------
-
 ## Dev env setup
 
 * Visual Studio Code
 * Eslint
 * Sphinx
 * NodeJs
-
--------------------------------------------
 
 ## Release notes
 
